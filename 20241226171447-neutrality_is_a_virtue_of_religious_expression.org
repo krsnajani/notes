@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f25e02f8-ca9e-4cb6-8f24-6f92545453f2
+:END:
+#+title: Neutrality is a virtue of religious expression
+
+An interesting paper written by a group of Spanish researchers, brought about an interesting issue concerning the importance of *anonymity and neutrality* in online religious expression.[cite:@astor_2024]
+
+Their key insights were
+1. Neutrality is important for religious reference website's online. This helps present authenticity. They position themselves as being non-partisan individuals working with the objective of presenting Islam in its "true" state. They refrain from leaning towards or against any particular school of Islamic Jurisprudence.
+2. In that regard, the presence of anonymity helps to obfuscate information that may dent this appearance of neutrality. This includes geographical information, or the identity of sect. It also allows for more open and fearless expression. Author's observe that forums which allow for anonymity also permit individuals to ask sensitive questions which they may not be permitted to within the confines of their social ecosystem.
+3. The performance of anonymity contributes to the impression that the content is *universal and non-sectarian*. Thus the function of anonymity in *digital religion* is completely distinct from its impact in literature where the aim was to deflect identification for prosecution. Here the performance of anonymity is not 'felicitous' but aims to bring forth a effortless expression true to life.
+
+** My Argument
+- There is an implicit Lutherian method lying beneath this argument. The argument against presenting a 'biased' view of the scripture implies that the objective method of interpretation has been deconstructed into a more democratic engagement with the text. The larger issue is that the community of believers does not wish to be bound by a interpretative bias because it aims to take upon itself the task of interpretation as a community of individuals. This anarchy in interpretation and its post-structural outcomes will make religious reform far more difficult and will allow for sub-groups to form that may further entrench dogma and regressive interpretative practices into these groups.

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       e2c15a12-dbf5-4ef7-8b68-7873eb3c6c40
+:END:
+#+title: Standing Orders Act, 1946
+#+options: toc:nil
+
+Enlist any orders under the SO Act
+
+* Object of the Act
+#+begin_quote
+/To require employers in industrial establishments to define  with sufficient precision the conditions of employment under them and to make the said  conditions known to workmen employed by them./
+#+end_quote
+* Applicability
+- Applies to every Industrial Establishment wherein 100 or more workmen are employed (were employed) on any day in the preceeding 12 months.
+- In Gujrat it is applicable to IE employing 10 or more workers in the preeceeding 12 months.
+- In the new IR Code it is increased to 300 which has become contentious for Trade Unions around the Nation.
+- Provided that the AG may after giving not less than 2 months notice of its intention to do so by notification apply the provisions of this Act, to any IE employing such number of persons = less than 100.
+* Definition
+- Industrial Establishment - as defined under Payment of Wages Act, or the Factories Act. To be registered under the Factories Act - subject to rider 100 or more
+- Standing Order - Rules relating to conditions of employment set out in the Schedule
+- Trade Union - Trade Union for time being registered under the Trade Union Act, 1926
+- Wages and Workmen - As according to the ID Act
+
+
+* Matters to be Provided in the Standing Order
+- Classification of worker for instance whether permanent temporary apprentice, probationers, or /badlis/.
+- Manner of intimating to workmen periods and hours of work, holidays, pay-days, and wage rates.
+- Shift-working. Factory works in three shifts. The rotation of shifts are also governed by Standing Orders.
+- Attendance or late-coming.
+- Conditions and procedure for applying of leaves
