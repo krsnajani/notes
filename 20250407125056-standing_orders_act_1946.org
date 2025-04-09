@@ -7,9 +7,11 @@
 Enlist any orders under the SO Act
 
 * Object of the Act
+
 #+begin_quote
 /To require employers in industrial establishments to define  with sufficient precision the conditions of employment under them and to make the said  conditions known to workmen employed by them./
 #+end_quote
+
 * Applicability
 - Applies to every Industrial Establishment wherein 100 or more workmen are employed (were employed) on any day in the preceeding 12 months.
 - In Gujrat it is applicable to IE employing 10 or more workers in the preeceeding 12 months.
@@ -28,3 +30,32 @@ Enlist any orders under the SO Act
 - Shift-working. Factory works in three shifts. The rotation of shifts are also governed by Standing Orders.
 - Attendance or late-coming.
 - Conditions and procedure for applying of leaves
+- Requirement to enter premises by certain gates and viability to such.
+- Closing and reporting of sections of Industrial Establishment
+- Termination of employment and notice thereof to be given by employer to the workman.
+- Suspension or dismissal of a workman for misconduct.
+  - Suspension is not punishment because it is only a interim measure to ensure that worker suspected of violation does not impair the investigation
+- Means to redress the workman grievances. To make known
+- Any other matter which may be prescribed.
+
+** Additional Matters to be Provided in SO relating to Industrial Establishment in Coal Mies
+Because working in a mine is itself a different perilous activity
+1. Medical Aid in case of Accidents
+2. Method of filling vacancy - Requisite training
+3. Service Certificate
+
+* Service Records
+To be maintained by the Employer
+1. Matters Relating to Service Card
+   - Details such as Aadhar, personal identifiable information, etc.
+   - Entry to the effect of stating the date on which he has left the job
+2. Change of residential address
+3. Legally endorsed birth certificate - DoB etc.
+4. Records of those workers who have been regularised (become permanent) - Classification
+5. When the workers are like to retire.
+6. Records of when and who is transfered to which branch.
+7. Medical aid and accident data
+8. Medical examination data generated at the expense of employee.
+   - In New Labour Code the medical checkup has been made mandatory for all persons.
+9. Must maintain secrecy - No workman shall take any papers, books, drawings, photographs, instruments, apparatus, documents, or any other property of an industrial establishment. out of the work premises
+   - Except with a written permission

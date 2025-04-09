@@ -3,4 +3,23 @@
 :END:
 #+title: Plato - Introduction
 
-Philosophy has a uniqye methoid of investigation such that it is the only discpline that can question its own and other assumptions. In this regard it is a autonomous subject that is not subject to any other ';discipline. 
+- First invented pholosophy as a distinct discipline with a distinct intellectural method.
+- Made philosophy as a study that aims to challenge the existing assumptions of other desciplines
+- In developing philosophy, he was affected by a variety of views that was 'currents of his time' .
+- To do pholsophy is to engage in adversarial cobersation about how ones life is to be lived.
+- While Plato wrote all of his literature with his teacher Socretes as the interlocuter, it must be noted that there is clear distinction between Plato as preseting Socretes, and Plato's own thought.
+  - For instance it has been argued that in various dialogues Socretes posits that it is only the Gods that have any semblace of 'real' knowledge. Apart from them, although he is himself engrossed in the discussion on virtue and knowledge, he knows nothing of it.
+  - But this same Socretes goes as far as to give a clear definition of 'justice' in Republic. He will in later dialogs go beyond the nature of inquiry that Socretes was original concerned with. It is at this time, it is argued that it is Plato for whom Socretes positions as a mouthpeice.
+- Scoretares gave to Plato the fundamental idea that it is vital to our well being to discover the single unitiing factor in our diverse use of moral terms.
+- He also inheited the method of seeking the truth by exposing our beifeds to the systematic cross examination of interlocutors.
+- Although many of these works portray Socretes as someone who poses questions - understood therefore in a negative sense, he also holds convictions of his own.
+  - The idea that well-being is framed as virtue.
+  - Virtue is understood as intellectual mastery over a distinct subject matter
+  - This mastery can only be obtained by the investifation of virtues.
+- He has also in various aspects departed from Socretes. In Republic he would argue that Socretes has failed to appiriciate a certain non-rational part of human motivation. A training in virtue requires one to appeal to rational senses as well as educate the emotional appetites which is not a purely intellectual matter.
+- In various senses, Plato has taken forward the ideas of Socretes when he develops the Form and Idea model. Plato develops an ontic model under which when a name is given to multiple objects that name itself pertains to a Form of such thing.
+  - This Kraut illustrates as such - A collection of sticks stacked together cannot be identical to 'Equality'. This 'Equality' is changeless and is revealed to us by thought, rather than sensation.
+    - There can be a mistake made as to the fact that two identical objects are not euqal, but no one can make the assertion that Equality is unequal.
+    - The equal sticks therefore 'participate' in Equality and called after its Form.
+- It has also been argued that while Socretes was concerned with the question of virtue, he did not take the time to investigate other second-order questions that imanate from this inquiry. 
+- *Ambedkar's assertion on the 'Forms of the Constitution' in the debate on Constitutional Morality*.
