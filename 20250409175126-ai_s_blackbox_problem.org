@@ -20,5 +20,5 @@
 - They argue that this concept is flawed as such a compromise does not exist. One must not forego interpretability for efficiency. The reason they try to trace in the model of AI Competition.
 - They also highlight that debates in the this field are far more concerned about informing people about the perils of a blackbox model rather than answering the question - "Why must I use it".
 - They posit that placing an inaccurate glass box model against an accurate black box model is not an accurate comparison. The model that is open, also allows for a perceptible analysis of its flaws and mistakes, here the black-box model is impossible to improve or correct. Its problems can only be investigated 'ex-post', and thus it requires a larger latitude to make mistakes that can subsequently be resolved.
-- 
+- It is clear that only when the cause the result is clear to the makers of the model, is it possible to generate a interpretable model. 
 
