@@ -5,7 +5,7 @@
 #+cite_export: csl /home/kjani/Zotero/styles/oscola.csl
 #+options: toc:nil
 
-
+* Background$
 - The blackbox problem is understood as our inability to understand *how AI develops an understanding*.
 - This is problematic because it makes difficult the task of /solving/ unwarranted outcomes.
 - In this regard, the only possible way to solve a problem is by *letting AI make mistakes*. It is those mistakes that open possibilities to rectify its thinking. There are an infinite number permutations so you never know if the system is robust enough to handle each one of them.
@@ -15,5 +15,10 @@
   - Another way is to possibly 'peer' into the box through what is generally called 'Explainable AI'. Now there are two ways to achieve that too. One is the DeepSeek model and the other is the Data Science (data visualisation, bigger neural nets, etc) which could help with this.
 - The larger question that must be considered is - "what is the role that we are willing AI to play in our lives". On the answer to this question, the Problem will become increasingly more concerning.
 - This also points to a fundamental flaw with any form of AI Regulation. Without an understanding of the technology that is being regulated operates, any form of law that tries to regulate it will become obsolete quickly. 
+* Why Are We Using Black Box Models in AI When We Don’t Need To?[cite:@rudinWhyAreWe2019]
+- Rudin also interestingly point out the /existing concept in the industry is that/ that while there is a way to create interpretable models, they are rather simpler models as a bulk of their resources are allocated to finding the accurate causal link. On the contrary conventional blackbox models are primarily developed for accuracy and efficiency and give no heed to the transparency of its method. 
+- They argue that this concept is flawed as such a compromise does not exist. One must not forego interpretability for efficiency. The reason they try to trace in the model of AI Competition.
+- They also highlight that debates in the this field are far more concerned about informing people about the perils of a blackbox model rather than answering the question - "Why must I use it".
+- They posit that placing an inaccurate glass box model against an accurate black box model is not an accurate comparison. The model that is open, also allows for a perceptible analysis of its flaws and mistakes, here the black-box model is impossible to improve or correct. Its problems can only be investigated 'ex-post', and thus it requires a larger latitude to make mistakes that can subsequently be resolved.
+- 
 
--  Rudin also interestingly point out that while there is a way to create interpretable models, they are rather simpler models as a bulk of their resources are allocated to finding the accurate causal link. On the contrary conventional blackbox models are primarily developed for accuracy and efficiency and give no heed to the transparency of its method. [cite:@rudinWhyAreWe2019]
