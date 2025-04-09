@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       02b757e0-cab2-4681-bd43-a02812dcbb1a
+:END:
+#+title: Execution Order 21
+#+options: toc:nil
+
+
+* Kinds of decree to be executed
+- Recovery of Money
+- Movable Property
+- Immovable Property
+- Injunction and RCR (S. 9 of HMA)
+* Modes of Execution:
+- Attachment and Sale
+- Arrest and Detention
+- Delivery of Property
+- Appointment of Receiver
+* General Rules of Execution
+- Court
+- Applicant/Respondent/DH/JD
+- Content of Application
+- Restitution
+- Provisions related to the execution of decree shall also apply to the discretion to order
+- Section 37 explains what is the meaning of 'court which passed the decree' - 'the Court of first instance' even if the decree has been passed in the exercise of appellate jurisdiction, the Court of first instance is to execute it.
+- When the appeal is pending and the Court of first instance has ceased to exist - For instance during the pendency of the appeal, the SG has re-organised the district or the State - Ans: Explanation S. 27 =
+  - If the area of jurisdiction in Court A was transferred to Court B = Then both Courts will have jurisdiction for the execution proceeding - Merla Ramanna v. Nallaparaju.
+  - On the basis of this the explanation was added to Section 27.
+  - The Court which would have the jurisdiction to try the said suit at the time when the execution proceedings are subsequently instituted will have the relevant jurisdiction.
+
+*Section 40, 41, 42 to also be read*.     
+
+**  Section 38
+What Court can execute decree - the Court which has passed the decree will execute it. Either Court that has passed it, or the Court to which it is sent for execution
+
+
+** Section 39
+- On the application made by the decree holder may sent the decree for  execution in another Court
+  - If person against whom the decree is passed resides, carries on business in the local limits of such other Court
+  - If -
+  - If the decree requires sale for immovable property outside the jurisdiction of the Court of first instance
+  - Any other reason for which it may written
+- The Court which has passed the decree can suo motu send it for execution to a subordinate court of competent (territorial, pecuniary, subject-matter) jurisdiction.
+
+
+* Application for the Execution of Decree
+- Who can Apply
+  - Decree Holder (DH)
+  - Legal Representative of DH : Person on whom the estate of the deceased devolves 2(11) - CPC.
+  - Representative of DH : Empowered on this behalf.
+  - Any person claiming under the DH (S. 146)
+  - Transferee of the DH if the following conditions are satisfied (S. 49)
+    - Decree must have been transferred by assignment or by operation of law
+    - The application must have been made to the Court which have been passed the decree
+    - Notice and opportunity of hearing must have been given to the transferor and the JD in case of assignment by transfer.
+  - Joint Decree Holders provided that following conditions are fulfilled:
+    - The decree should not have imposed any condition
+    - The application must have been made in this regard
+  - In the case of partition even defendant can apply for the execution
+  - In the case of representative suit, the person who is being represented and not on record an apply for the execution of decree
+- Who cannot apply
+- Parties against whom it can be executed
+  - Judgement Debtor
+  - LR of the JD if the JD is dead
+  - Person claiming against the JD
+  - Surety of the JD
+- Content of application (Rule 11) r/w Appendix (E) Form No. 6
+  - Number of Suit
+  - Name of the Parties
+  - Date of Decree
+  - Amount of Decree
+  - Against whom it is to be executed
+  - Amount of costs if any
+  - Mode in which the assistance of the Court is required. 
+- Procedure on receiving application
+
+* Notice to JD
+Those persons who are not directly engaged with the party must be given a notice. While the general rule is that no notice must be given for process of execution
+
+The object of giving notice to the judgement debtor is:
+- To afford him the opportunity to put forward objections, against maintainability of execution. 
+- Prevent him, or those having interest flowing from him to be taken by surprise.
+- Enable him to satisfy the decree before the execution is issued against him. 
+
+* Questions that can be determined by The Execution Court (S. 47)
+- All questions between the parties relating to the execution discharge or satisfaction shall be determined by the Court executing decree and not by separate suit.
+- Satisfaction of 
+- The execution court cannot go beyond the decree.  
+
+* Restitution
+
+- Act of restoring a thing to the proper owner
+- Restoring to the party what is lost on account of execution or modification variation or reversal of decree.
+- It is founded on the doctrine of restitution on the reversal of a decree, the law imposes an obligation aupon the party who recieved any unjust benefift from the incorrect decre to make restitution to the party for what has ben lost. /*Binayak v. Ramesh Chandra*/ 1966 SC 948
+- Based on equitable principle - /Actus curiae neminem gravabit/ means that - the court shall harm no one. 
+- It is simply the expression of the inherent power of the Court in Section 151. Even if the Section is repealed, the remedy can be provided by virtue of 151. 

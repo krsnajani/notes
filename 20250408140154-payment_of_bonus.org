@@ -90,3 +90,16 @@ The PoB is based on this formula and was recognised by SC in 1959 in Associated 
 
 
 
+* Section 13
+Under Section 8, 30 working days implies that the worker must have actually worked on those days. Wages: monetery compensation for the work done by the Employee. Remuneration: where the employee has not worked but is still getting paid for it is remuneration - 15 Aug for instance. Now here 30 working days = actual work, excluding all forms of holidays.
+
+If the criteria has not been fulfilled,
+
+If 30 days have not been fulfilled then following may be added to compute the 
+- Period of Layoff
+- Paid Leave
+- Absence due to temporary disablement
+- Maternity Leave
+
+
+
