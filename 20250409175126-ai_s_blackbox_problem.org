@@ -2,13 +2,18 @@
 :ID:       6094e3fa-2e35-4c1e-b695-52823cb51782
 :END:
 #+title: AI's blackbox problem
+#+cite_export: csl /home/kjani/Zotero/styles/oscola.csl
+#+options: toc:nil
+
 
 - The blackbox problem is understood as our inability to understand *how AI develops an understanding*.
 - This is problematic because it makes difficult the task of /solving/ unwarranted outcomes.
 - In this regard, the only possible way to solve a problem is by *letting AI make mistakes*. It is those mistakes that open possibilities to rectify its thinking. There are an infinite number permutations so you never know if the system is robust enough to handle each one of them.
 - It also has an ethical dimension, again by virtue of the increasing use of AI in decision making scenario's it has taken upon itself the burden of making an accurate decision. A decision which could have a significant negative effect for others. In this context it is important that we can verify the accuracy of its decisions, but the infinite possibilities and blackbox paradox and again hit.
-- The solution for Rawashdeh is two fold
+- The solution for Rawashdeh is two fold [cite:@AIsMysteriousBlack]
   - Stop using AI for decision making in high-stakes applications. This is akin to the EU's risk-assessment model where the use of AI is mediated by the risk category.
   - Another way is to possibly 'peer' into the box through what is generally called 'Explainable AI'. Now there are two ways to achieve that too. One is the DeepSeek model and the other is the Data Science (data visualisation, bigger neural nets, etc) which could help with this.
 - The larger question that must be considered is - "what is the role that we are willing AI to play in our lives". On the answer to this question, the Problem will become increasingly more concerning.
 - This also points to a fundamental flaw with any form of AI Regulation. Without an understanding of the technology that is being regulated operates, any form of law that tries to regulate it will become obsolete quickly. 
+
+-  Rudin also interestingly point out that while there is a way to create interpretable models, they are rather simpler models as a bulk of their resources are allocated to finding the accurate causal link. On the contrary conventional blackbox models are primarily developed for accuracy and efficiency and give no heed to the transparency of its method. [cite:@rudinWhyAreWe2019]
