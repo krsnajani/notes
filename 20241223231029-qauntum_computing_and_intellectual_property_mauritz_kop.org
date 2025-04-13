@@ -1,17 +1,20 @@
 :PROPERTIES:
 :ID:       1579118d-2a92-4078-a874-b73221e08e86
 :END:
-#+title: Qauntum Computing and Intellectual Property - Mauritz  
+#+title: quantum computing requires a different IP regime to protect competition and innovation
 #+filetags: :intellectual_property:quantum:
 #+cite_export: csl ~/Zotero/styles/oscola.csl
 
-The key arguments that the author[cite:@kop_2022] makes are: 
+The key arguments that the author[cite:@kopRegulatingTransformativeTechnology2020] makes are: 
 
-1. That there are various subsystems within a quantum computer, including the software platform and parts of the hardware that run them. These individual components can either be developed by humans, or a result of mechanistic creation. As long as it is mechanistic creation it must belong to the public domain for people to use.
-2. If it is developed by human researchers, policy must ensure that there is no 'over-protection' through the prevailing IP regime. The author observes that there the IP regime current allows individuals and companies to maintain indefinite control over their 'discoveries'. This is bound to create a monopolized market with major players having the R&D infrastructure are the only one's having access to the Quantum market. This could centralize power and could seriously affect market competition and *transparency*.
-3. The power of quantum computing could also relegate these developments to the 'state secret' regime, where transparency of the developments taking place will gradually become nil. There is a need to accommodate participation with security.
-4. They argue that it is important to introduce *shorter IP protection duration* so that it may develop in tandem with the pace of innovation in this particular sphere. That is each innovation in the realm of quantum AI and quantum computing will last for 3-10 years. This will allow follow-on innovation and will primarily diminish instances of complete monopoly in this realm. The monopoly is not of resources but of knowledge, if patented technology is publicly accessible in lesser time, then innovation can move at a quicker rate
+1. Subsystems within a quantum computer, can be either be developed by humans, or a result of mechanistic creation. As long as it is mechanistic creation it must belong to the public domain for people to use. Human creations must not be 'over-protected'. Indefinite control over discoveries leads to a monopoly. Access to R&D infra also plays role. Centralisation could also cause problems with transparency. 
+3. The use of 'state secrets' to protect quantum research will seriously impact competition and research. There is a need to accommodate participation with security.
+4. Introduce *shorter IP protection duration* developing in  tandem with the pace of innovation. Each innovation will last for 3-10 years. Diminish instances of complete monopoly and allow further R&D in this realm. 
 
 
-- Software functionality patent ?
-- 
+
+
+
+
+
+
